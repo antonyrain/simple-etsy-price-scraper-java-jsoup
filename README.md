@@ -1,2 +1,2 @@
-# simple-etsy-price-scraper-java-jsoup
- A simple etsy price scraper
+# simple-etsy-price-scrapper-java-jsoup
+ A simple etsy price scrapper
